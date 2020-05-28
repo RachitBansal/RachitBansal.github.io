@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Thank you for stopping by.
+
 # About Me
-Thank you for stopping by. 
 
 I am an amateur (and shall always be one) in all the things I define myself through- a researcher, an engineer, a poet. The only skill I truly try to master is that of studying and learning.
 

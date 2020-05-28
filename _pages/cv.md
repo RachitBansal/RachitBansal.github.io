@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Electrical Engineering, Delhi Technological University, 2022 (expected)
+* CBSE- Class XII, Bal Bharati Public School, 2018
+* CBSE- Class X, Bal Bharati Public School, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 - Present: Student Researcher
+  * Laboratory for Computational Social Systems, IIIT Delhi
+  * Misinformation Retrieval
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Researcher
+  * Cuneniform Digital Library Initiative, University of Oxford
+  * Open Sources Research Project on Unsupervised Neural Machine Translation of Low-Resource Cuneniform Languages
+  * Supervisor: [Niko Schenk](https://www.uni-frankfurt.de/46551536/Niko_Schenk) and Ravneet Punia
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Linguistics
+  * Neural Machine Translation
+  * Context Reresentations
+  * Attention Models
+* Machine Learning
+* Reinforcement Learning
 
-Publications
+Courses
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Probabilistic Graphical Models- Stanford Univeristy
+* Introduction to Probability- Harvard University
+* Bayesian Methods for Machine Learning- National Research University, Russia
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

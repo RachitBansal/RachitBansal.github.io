@@ -1,5 +1,5 @@
 ---
-title: "Student Intructor"
+title: "Student Instructor"
 collection: teaching
 type: "Reinforcement Learning Course"
 permalink: /teaching/2015-spring-teaching-1

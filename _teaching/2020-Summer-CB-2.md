@@ -1,5 +1,5 @@
 ---
-title: "Mentor cum Student Reviewer"
+title: "Student Intructor"
 collection: teaching
 type: "Reinforcement Learning Course"
 permalink: /teaching/2015-spring-teaching-1

@@ -19,6 +19,7 @@ For my professional journey, works and achievments look around this site, all of
 I hope visitng my minimal portfolio page would have lightened your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
 
 # News
+- **June 2020** &nbsp; Will be volunteering at ICML 2020 <br>
 - **June 2020** &nbsp; Started working at CDLI in collaboration with Oxford University <br>
 - **May 2020** &nbsp; Accepted offer from LCS2, IIIT-D to work as a Research Intern <br>
 - **April 2020** &nbsp; My first attempt at a research paper rejected from ACL SRW, 2020 <br>

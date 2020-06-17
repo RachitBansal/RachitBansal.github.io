@@ -4,7 +4,7 @@ collection: teaching
 type: "Reinforcement Learning Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Coding Blocks"
-date: 2020-05
+date: 2020-05-01
 location: "New Delhi, India"
 ---
 

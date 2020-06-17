@@ -23,7 +23,7 @@ Work experience
 
 * Summer 2020: Researcher
   * Cuneniform Digital Library Initiative, University of Oxford
-  * Open Sources Research Project on Unsupervised Neural Machine Translation of Low-Resource Cuneniform Languages
+  * [Open Sourced](https://github.com/cdli-gh/Unsupervised-NMT-for-Sumerian-English) Research Project on Unsupervised Neural Machine Translation of Low-Resource Cuneniform Languages
   * Supervisor: [Niko Schenk](https://www.uni-frankfurt.de/46551536/Niko_Schenk) and Ravneet Punia
   
 Skills

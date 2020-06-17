@@ -4,7 +4,7 @@ collection: teaching
 type: "Machine Learning and Deep Learning Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Coding Blocks"
-date: 2019-05
+date: 2019-05-01
 location: "New Delhi, India"
 ---
 

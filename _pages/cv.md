@@ -46,3 +46,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+[CV for Research Purposes](https://drive.google.com/file/d/1cdzQoqeoevBpmgnb7_4ZpovUv5h2GXWv/view?usp=sharing)

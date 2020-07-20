@@ -16,10 +16,11 @@ I am an amateur (and shall always be one) in all the things I define myself thro
 
 For my professional journey, works and achievments look around this site, all of them are engrained somewhere or the other.
 
-I hope visitng my minimal portfolio page would have lightened your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
+I hope my minimal portfolio page would lighten your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
 
 # News
-- **June 2020** &nbsp; Will be volunteering at ICML 2020 <br>
+- **June 2020** &nbsp; Volunteered at ICML 2020 <br>
+- **June 2020** &nbsp; Volunteered at ACL 2020 <br>
 - **June 2020** &nbsp; Started working at CDLI in collaboration with Oxford University <br>
 - **May 2020** &nbsp; Accepted offer from LCS2, IIIT-D to work as a Research Intern <br>
 - **April 2020** &nbsp; My first attempt at a research paper rejected from ACL SRW, 2020 <br>

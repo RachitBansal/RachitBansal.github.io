@@ -8,43 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* B.Tech in Electrical Engineering, Delhi Technological University, 2022 (expected)
-* CBSE- Class XII, Bal Bharati Public School, 2018
-* CBSE- Class X, Bal Bharati Public School, 2016
-
-Work experience
-======
-* May 2020 - Present: Student Researcher
-  * Laboratory for Computational Social Systems, IIIT Delhi
-  * Misinformation Retrieval
-
-* Summer 2020: Researcher
-  * Cuneniform Digital Library Initiative, University of Oxford
-  * [Open Sourced](https://github.com/cdli-gh/Unsupervised-NMT-for-Sumerian-English) Research Project on Unsupervised Neural Machine Translation of Low-Resource Cuneniform Languages
-  * Supervisor: [Niko Schenk](https://www.uni-frankfurt.de/46551536/Niko_Schenk) and Ravneet Punia
-  
-Skills
-======
-* Computational Linguistics
-  * Neural Machine Translation
-  * Context Reresentations
-  * Attention Models
-* Machine Learning
-* Reinforcement Learning
-
-Courses
-======
-* Probabilistic Graphical Models- Stanford Univeristy
-* Introduction to Probability- Harvard University
-* Bayesian Methods for Machine Learning- National Research University, Russia
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 [CV for Research Purposes](https://drive.google.com/file/d/1cdzQoqeoevBpmgnb7_4ZpovUv5h2GXWv/view?usp=sharing)
+
+[CV for Other Purposes](https://drive.google.com/file/d/1d4yVZILaUtNG0vfVS2Wc1dIf2CoAzQe3/view?usp=sharing)

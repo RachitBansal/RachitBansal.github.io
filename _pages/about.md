@@ -19,7 +19,7 @@ For my professional journey, works and achievments look around this site, all of
 I hope my minimal portfolio page would lighten your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
 
 # News
-- **July 2020** &nbsp; Submitted our work on Misinformation Detection (at [LCS2 IIIT-D](http://lcs2.iiitd.edu.in/)) to COLING 2020 <br> 
+- **July 2020** &nbsp; Submitted [our](http://lcs2.iiitd.edu.in/) work on Misinformation Detection to COLING 2020 <br> 
 - **June 2020** &nbsp; Volunteered at ICML 2020 <br>
 - **June 2020** &nbsp; Volunteered at ACL 2020 <br>
 - **June 2020** &nbsp; Started working at CDLI in collaboration with Oxford University <br>

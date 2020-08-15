@@ -23,6 +23,7 @@ I hope my minimal portfolio page would lighten your day a bit. If so, don't forg
 - **June 2020** &nbsp; Volunteered at ACL 2020 <br>
 - **June 2020** &nbsp; Started working at CDLI in collaboration with Oxford University <br>
 - **May 2020** &nbsp; Accepted offer from LCS2, IIIT-D to work as a Research Intern <br>
-- **April 2020** &nbsp; My first attempt at a research paper rejected from ACL SRW, 2020 <br>
-- **May 2019** &nbsp; Started working as a Teaching Assistant for the Machine Learning course at Coding Blocks <br>
+- **April 2020** &nbsp; Served as a Student Instructor for the Reinforcement Learning course at Coding Blocks <br>
+- **March 2020** &nbsp; My first attempt at a research paper rejected from ACL SRW, 2020 <br>
+- **May 2019** &nbsp; Served as a Teaching Assistant for the Machine Learning course at Coding Blocks <br>
 - **July 2018** &nbsp; Joined Delhi Technological University <br>

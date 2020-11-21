@@ -19,6 +19,7 @@ For my professional journey, works and achievments look around this site, all of
 I hope my minimal portfolio page would lighten your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
 
 # News
+- **November 2020** &nbsp; Volunteered at EMNLP 2020 <br>
 - **June 2020** &nbsp; Volunteered at ICML 2020 <br>
 - **June 2020** &nbsp; Volunteered at ACL 2020 <br>
 - **June 2020** &nbsp; Started working at CDLI in affliation with University of Oxford <br>

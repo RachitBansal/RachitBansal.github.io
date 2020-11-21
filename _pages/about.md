@@ -19,11 +19,9 @@ For my professional journey, works and achievments look around this site, all of
 I hope my minimal portfolio page would lighten your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
 
 # News
-- **November 2020** &nbsp; Volunteered at EMNLP 2020 <br>
-- **June 2020** &nbsp; Volunteered at ICML 2020 <br>
+- **Nov 2020** &nbsp; Volunteered at EMNLP 2020 <br>
 - **June 2020** &nbsp; Volunteered at ACL 2020 <br>
-- **June 2020** &nbsp; Started working at CDLI in affliation with University of Oxford <br>
-- **May 2020** &nbsp; Accepted offer from LCS2, IIIT-D to work as a Research Intern <br>
-- **April 2020** &nbsp; Served as a Student Instructor for the Reinforcement Learning course at Coding Blocks <br>
+- **June 2020** &nbsp; Started working with [CDLI](https://cdli.ucla.edu/), University of Oxford as an Open-Source Contributor <br>
+- **May 2020** &nbsp; Joined [LCS2](http://lcs2.iiitd.edu.in/), IIIT-D as a Research Intern <br>
+- **Apr 2020** &nbsp; Served as a Student Instructor for the Reinforcement Learning course at Coding Blocks <br>
 - **May 2019** &nbsp; Served as a Teaching Assistant for the Machine Learning course at Coding Blocks <br>
-- **July 2018** &nbsp; Joined Delhi Technological University <br>

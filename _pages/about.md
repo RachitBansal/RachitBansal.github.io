@@ -28,4 +28,4 @@ I hope my minimal portfolio page would lighten your day a bit. If so, don't forg
 - June 2020: &nbsp; Contributing to the [Cuneiform Digital Library Initiative](https://cdli.ucla.edu/) **(CDLI), University of Oxford**. Working on low-resource machine translation. <br>
 - June 2020: &nbsp; Volunteering at ACL 2020. <br>
 - May 2020: &nbsp; Joined **[LCS2](http://lcs2.iiitd.edu.in/), IIIT-D** as a Research Intern. Working on closed-domain misinformation detection across social networks. <br>
-- May 2019: &nbsp; Serving as a Teaching Assistant for the Machine Learning course at Coding Blocks. With (Prateek)[http://www.prateeknarang.com/] and [Manu](https://www.manuspillai.in/) <br>
+- May 2019: &nbsp; Serving as a Teaching Assistant for the Machine Learning course at Coding Blocks. With [Prateek](http://www.prateeknarang.com/) and [Manu](https://www.manuspillai.in/). <br>

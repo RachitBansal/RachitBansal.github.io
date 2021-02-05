@@ -12,7 +12,11 @@ Thank you for stopping by.
 
 # About Me
 
-I am an amateur (and shall always be one) in all the things I define myself through- a researcher, an engineer, a poet. The only skill I truly try to master is that of studying and learning.
+I am an amateur (and shall always be one) in all the things I define myself through- a researcher, an engineer, a poet. The only skill I truly try to master is that of studying and learning. 
+
+I am particularly excited about linguistics, mathematics and computer science as separate fields of study, and thus have evolved and developed myself in the beautiful amalgamation of the three in the form of Computational Linguistics. I wish to sneak deep into how these three work together and how studying one unravels so much about the other. This is what I want to surround my research around. I want to make more sense of the world around us and of the algorithms that encode it.
+
+My research interests are Neural Machine Translation, Semi-Supervised and Unsupervised Learning, Representation Learning and Transfer Learning for NLP. I also deeply contemplate about Word and Contextual embeddings, Recurrent Neural Networks and Transformer-based models. 
 
 For my professional journey, works and achievments look around this site, all of them are engrained somewhere or the other.
 

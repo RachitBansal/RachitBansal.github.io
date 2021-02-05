@@ -18,7 +18,7 @@ I am particularly excited about linguistics, mathematics and computer science as
 
 My research interests are Neural Machine Translation, Semi-Supervised and Unsupervised Learning, Representation Learning and Transfer Learning for NLP. I also deeply contemplate about Word and Contextual embeddings, Recurrent Neural Networks and Transformer-based models. 
 
-For my professional journey, works and achievments look around this site, all of them are engrained somewhere or the other.
+For my professional journey, works and achievements look around this site, all of them are engrained somewhere or the other.
 
 I hope my minimal portfolio page would lighten your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
 

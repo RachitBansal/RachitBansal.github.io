@@ -23,7 +23,7 @@ For my professional journey, works and achievements look around this site, all o
 I hope my minimal portfolio page would lighten your day a bit. If so, don't forget to let me know by leaving a message on one of those pages mentioned on the left.
 
 # News
-- May 2021: &nbsp; Starting as a Research Intern at **Adobe**'s Media and Data Science Research (**MDSR**) lab. <br>
+- May 2021: &nbsp; Starting as a Research Intern at **Adobe** India's Media and Data Science Research (**MDSR**) lab. <br>
 - Feb 2021: &nbsp; My first research paper accepted at **PAKDD 2021**. Evaluating fake news early, with [Dr. Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/) and [William Scott](https://www.linkedin.com/in/williamscottp/). <br>
 - Nov 2020: &nbsp; Collaborating with [Danish](https://www.cs.cmu.edu/~ddanish/) (**LTI, CMU**) on evaluating neural explanations for NLP. <br>
 - Nov 2020: &nbsp; Volunteering at EMNLP 2020. <br>
